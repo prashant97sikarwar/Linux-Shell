@@ -14,3 +14,4 @@ else if (total >= 80)
     print $1,$2,$3,$4, ": A" 
 else 
     print $1,$2,$3,$4, ": FAIL" }'
+    

@@ -2,4 +2,7 @@
 
 # Given a text file, order the lines in lexicographical order.
 
-sort -t " " -k1
+# sort -t " " -k1
+
+cat > life.txt
+sort -t " " -k1 life.txt

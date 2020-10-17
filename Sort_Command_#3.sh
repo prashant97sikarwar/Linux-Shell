@@ -6,4 +6,4 @@
 #line holds the numerically smallest number, and the last line holds the numerically largest 
 #number.
 
-sort -n
+sort -n 
